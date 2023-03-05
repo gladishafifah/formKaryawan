@@ -30,7 +30,7 @@ Radtek uses a number of open source projects to work properly:
 ## Installation
 - letakkan file pada folder htdocs
 ```sh
-http://localhost/vsga/form_karyawan.php
+http://localhost/formKaryawan/index.php
 ```
 
 ## Cara Penggunaannya
@@ -38,7 +38,7 @@ Berikut adalah cara menggunakan Form Karyawan:
 
 1. Clone atau download repository Form Karyawan ke komputer Anda.
 2. Ekstrak file yang telah di-download ke direktori web server Anda (misalnya htdocs jika Anda menggunakan XAMPP).
-3. Buka web browser dan akses aplikasi Form Karyawan dengan alamat http://localhost/vsga/form_karyawan.php
+3. Buka web browser dan akses aplikasi Form Karyawan dengan alamat http://localhost/formKaryawan/index.php
 4. Input data karyawan dengan mengisi formulir yang telah disediakan.
 5. Tekan tombol "Save" untuk menampilkan data yang telah diinput dan tunjangan berdasarkan golongan serta menghitung pajak dan total gaji.
 6. Data karyawan yang sudah di tekan tombol save tadi kini telah muncul di bawah formulir input.
