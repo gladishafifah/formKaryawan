@@ -1,0 +1,26 @@
+[
+    {
+        "nik": "32789",
+        "nama": "Angga yahya al fahry",
+        "jenisKelamin": "1",
+        "agama": "Islam",
+        "golongan": "III",
+        "gajiPokok": "12000000"
+    },
+    {
+        "nik": "96564",
+        "nama": "Ni Made Kartika Asri",
+        "jenisKelamin": "0",
+        "agama": "Buddha",
+        "golongan": "II",
+        "gajiPokok": "9000000"
+    },
+    {
+        "nik": "52971",
+        "nama": "Al Hasan",
+        "jenisKelamin": "1",
+        "agama": "Katolik",
+        "golongan": "I",
+        "gajiPokok": "5000000"
+    }
+]
