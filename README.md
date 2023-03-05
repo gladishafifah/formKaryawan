@@ -37,11 +37,11 @@ http://localhost/vsga/form_karyawan.php
 Berikut adalah cara menggunakan Form Karyawan:
 
 1. Clone atau download repository Form Karyawan ke komputer Anda.
-Ekstrak file yang telah di-download ke direktori web server Anda (misalnya htdocs jika Anda menggunakan XAMPP).
-2.  Buka web browser dan akses aplikasi Form Karyawan dengan alamat http://localhost/vsga/form_karyawan.php
-3.  Input data karyawan dengan mengisi formulir yang telah disediakan.
-4. Tekan tombol "Save" untuk menampilkan data yang telah diinput dan tunjangan berdasarkan golongan serta menghitung pajak dan total gaji.
-5.  Data karyawan yang sudah di tekan tombol save tadi kini telah muncul di bawah formulir input.
+2. Ekstrak file yang telah di-download ke direktori web server Anda (misalnya htdocs jika Anda menggunakan XAMPP).
+3. Buka web browser dan akses aplikasi Form Karyawan dengan alamat http://localhost/vsga/form_karyawan.php
+4. Input data karyawan dengan mengisi formulir yang telah disediakan.
+5. Tekan tombol "Save" untuk menampilkan data yang telah diinput dan tunjangan berdasarkan golongan serta menghitung pajak dan total gaji.
+6. Data karyawan yang sudah di tekan tombol save tadi kini telah muncul di bawah formulir input.
 > Terima Kasih, telah mencobanya.
 
 ## Kontribusi
@@ -52,7 +52,7 @@ Jika Anda ingin berkontribusi, silakan fork repository ini dan buat branch baru 
 ## License
 
 Form Karyawan dilisensikan di bawah MIT License.
-Created by Gladis Hafifah - Contact me!
+Created by Gladis Hafifah
 
-[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]() [![json](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)](https://www.json.org/json-en.html) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/6282261169892)
+[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]() [![json](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)](https://www.json.org/json-en.html)
 **Free Software, Hell Yeah!**
